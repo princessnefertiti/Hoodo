@@ -1,10 +1,6 @@
 # 🏄‍♂️ Hoodo  Khadar
 
-<p align="center">
- 
-  <a href="https://github.com/princessnefertiti">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Hoodo Khadar" /></a>
-</p>
+
 
 <p align="center">
 
@@ -19,7 +15,7 @@ I am a passionate Software Engineer with expertise in designing, building, and m
 Seeking Employment
 I am currently looking for new opportunities where I can contribute my skills and grow as a professional. If you're hiring or know of exciting opportunities, feel free to reach out to me!
 
-📫 **Contact**: [yourname@gmail.com](mailto:hoodokhadarcode@gmail.com)
+📫 **Contact**: [hoodokhadarcode@gmail.com](mailto:hoodokhadarcode@gmail.com)
 
 
 
